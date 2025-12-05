@@ -1,0 +1,6 @@
+# env related
+.env.*
+# except local env
+!.env.local
+
+bin/

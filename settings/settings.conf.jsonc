@@ -1,0 +1,4 @@
+{
+  "env_file_name": ".env.local",
+  "default_go_version": "1.24.10"
+}
